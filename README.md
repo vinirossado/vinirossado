@@ -44,8 +44,8 @@ For the past few years I've also been interested in learning new languages and c
   
 </div>
 
-[angular_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=typescript
-[flutter_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=dart
-[nodejs_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=javascript
-[csharp_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=c%23
-[php_link]: https://github.com/andersonfds?tab=repositories&q=&type=&language=php
+[angular_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=typescript
+[flutter_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=dart
+[nodejs_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=javascript
+[csharp_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23
+[php_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=php
