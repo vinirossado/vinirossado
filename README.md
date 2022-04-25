@@ -12,7 +12,6 @@ For the past few years I've also been interested in learning new languages and c
 
 - Portuguese (C2)
 - English (B2)
-- Norwegian (A1)
 
  <div>
   <a href="https://github.com/Vinirossado">
