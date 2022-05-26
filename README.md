@@ -2,7 +2,8 @@
 I'm a software developer, currently working with Angular and .Net Core allocated in a stockbroker company.
 
 #### About me
-Hi, I'm Vinícius.
+Hi, I'm Vinícius and I'm living in Tallinn.
+
 
 Currently working with Angular, .NET Core at a software house company. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Also one of my hobbies include learning new stacks, for instance, right now I'm quite interested in Golang.
 
