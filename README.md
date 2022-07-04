@@ -31,13 +31,11 @@ For the past few years I've also been interested in learning new languages and c
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="35" alt="elixir" />][elixir_link]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" height="35" alt="phoenix" />][elixir_link]
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
-
-
-
 
 
 </div>
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
+
   
   ##
  
