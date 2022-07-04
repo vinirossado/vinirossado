@@ -1,6 +1,7 @@
 ### Hi 👋, you can call me Rossado
 I'm a software developer, currently working with Angular and .Net Core allocated in a stockbroker company.
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 #### About me
 Hi, I'm Vinícius.
 
