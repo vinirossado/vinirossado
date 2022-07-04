@@ -1,7 +1,6 @@
 ### Hi 👋, you can call me Rossado
 I'm a software developer, currently working with Angular and .Net Core.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 #### About me
 Hi, I'm Vinícius and I'm living in Tallinn.
 
@@ -11,7 +10,6 @@ Currently working with Angular, .NET Core at a software house company. One of my
 For the past few years I've also been interested in learning new languages and cultures, specially the nordic ones.
 
 #### Spoken languages
-
 - Portuguese (C2)
 - English (B2)
 
@@ -32,6 +30,9 @@ For the past few years I've also been interested in learning new languages and c
 [<img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />][nodejs_link]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="35" alt="elixir" />][elixir_link]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" height="35" alt="phoenix" />][elixir_link]
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
+
 
 
 
