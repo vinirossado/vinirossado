@@ -19,6 +19,8 @@ For the past few years I've also been interested in learning new languages and c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirossado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
+
 #### Technologies of Interest
 <div style="display: inline_block"><br>
 
@@ -34,7 +36,6 @@ For the past few years I've also been interested in learning new languages and c
 
 
 </div>
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 
   
   ##
