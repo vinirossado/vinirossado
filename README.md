@@ -3,7 +3,8 @@ I'm a software developer, currently working with Angular and .Net Core allocated
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 #### About me
-Hi, I'm Vinícius.
+Hi, I'm Vinícius and I'm living in Tallinn.
+
 
 Currently working with Angular, .NET Core at a software house company. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Also one of my hobbies include learning new stacks, for instance, right now I'm quite interested in Golang.
 
@@ -13,7 +14,6 @@ For the past few years I've also been interested in learning new languages and c
 
 - Portuguese (C2)
 - English (B2)
-- Norwegian (A1)
 
  <div>
   <a href="https://github.com/Vinirossado">
