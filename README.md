@@ -1,5 +1,5 @@
 ### Hi 👋, you can call me Rossado
-I'm a Senior Software Engineer, currently working with StencilJs and .Net Core and so on.
+I'm a Senior Software Engineer, Angular | .Net Core.
 
 #### About me
 Hi, I'm Vinícius and I'm living in Tallinn.
