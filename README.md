@@ -1,5 +1,5 @@
 ### Hi 👋, you can call me Rossado
-I'm a software developer, currently working with Angular and .Net Core.
+I'm a Senior Software Engineer, currently working with Angular and .Net Core.
 
 #### About me
 Hi, I'm Vinícius and I'm living in Tallinn.
