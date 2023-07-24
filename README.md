@@ -4,6 +4,8 @@ I'm a Senior Software Engineer, currently working with Stencil and .Net Core.
 #### About me
 Hi, I'm Vinícius and I'm living in Tallinn.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinirossado&label=Profile%20views&color=0e75b6&style=flat" alt="vinirossado" /> </p>
+
 Currently working with Stencil and .NET Core at a financial company. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Besides, one of my hobbies includes learning new stacks, for instance, right now I'm quite interested in Golang.
 
 For the past few years I've also been interested in learning new languages and cultures, specially the nordic ones.
