@@ -34,10 +34,6 @@ For the past few years I've also been interested in learning new languages and c
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="35" alt="Csharp" />][csharp_link]
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go" />][golang_link]
 [<img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />][nodejs_link]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="35" alt="ruby" />][ruby_link]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="35" alt="rails" />][ruby_link]
-
-
 
 </div>
 
@@ -57,4 +53,3 @@ For the past few years I've also been interested in learning new languages and c
 [golang_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=go
 [nodejs_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=javascript
 [csharp_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23
-[ruby_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=ruby
