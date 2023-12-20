@@ -25,7 +25,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 
-
+## ✩ Statistics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C330%20hrs%2044%20mins-blue)
 
@@ -94,9 +94,7 @@ C                        1 repo              ░░░░░░░░░░░�
  Last Updated on 20/12/2023 10:31:42 UTC
 <!--END_SECTION:waka-->
 
-## ✩ Statistics
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Rossado&locale=pt-br&theme=synthwave&custom_title=➥+Hours+in+Development&hide_title=false&show_icons=true&hide=ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,JAVAini,git+config,bash,csproj,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
 
 
 #### Technologies of Interest
