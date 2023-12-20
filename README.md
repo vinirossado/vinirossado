@@ -27,13 +27,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C331%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 273.8 kB Used in GitHub's Storage 
  > 
-> 🏆 239 Contributions in the Year 2023
+> 🏆 242 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,7 +91,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2023 11:21:32 UTC
+ Last Updated on 20/12/2023 18:47:25 UTC
 <!--END_SECTION:waka-->
 
 
