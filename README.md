@@ -25,6 +25,12 @@ For the past few years I've also been interested in learning new languages and c
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 
+
+## ✩ Statistics
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Rossado&locale=pt-br&theme=synthwave&custom_title=➥+Hours+in+Development&hide_title=false&show_icons=true&hide=ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,JAVAini,git+config,bash,csproj,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
+
+
 #### Technologies of Interest
 <div style="display: inline_block"><br>
 
