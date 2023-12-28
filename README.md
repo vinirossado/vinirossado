@@ -27,11 +27,11 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C335%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 343.8 kB Used in GitHub's Storage 
+> 📦 345.7 kB Used in GitHub's Storage 
  > 
 > 🏆 251 Contributions in the Year 2023
  > 
@@ -92,7 +92,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 08:16:46 UTC
+ Last Updated on 28/12/2023 11:25:06 UTC
 <!--END_SECTION:waka-->
 
 
