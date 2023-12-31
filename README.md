@@ -27,7 +27,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,7 +92,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 09:43:48 UTC
+ Last Updated on 31/12/2023 14:34:55 UTC
 <!--END_SECTION:waka-->
 
 
