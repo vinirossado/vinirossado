@@ -14,7 +14,7 @@ For the past few years I've also been interested in learning new languages and c
 - Portuguese (C2)
 - English (C1)
 - Italian (A2)
-- Estonian (A1) - Learning
+- Estonian (A2) - Learning
 - Russian (A1) - Learning
 
  <div>
