@@ -27,7 +27,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C170%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 544.4 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2025
+> 🏆 43 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,14 +70,14 @@ Sunday                   168 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       9 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   38.11 % 
-Bicep                    4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-HTTP Request             4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+C#                       6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Bicep                    4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+HTTP Request             4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+YAML                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 💻 Operating System: 
-Mac                      23 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -93,7 +93,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 00:20:42 UTC
+ Last Updated on 22/02/2025 00:20:01 UTC
 <!--END_SECTION:waka-->
 
 
