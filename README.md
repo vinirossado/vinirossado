@@ -27,7 +27,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C334%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 545.3 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2025
+> 🏆 78 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,14 +70,14 @@ Sunday                   178 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       6 hrs 37 mins       █████████████░░░░░░░░░░░░   53.74 % 
-TypeScript               2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-HTTP Request             1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+C#                       8 hrs 36 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
+TypeScript               2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+HTTP Request             2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Go                       1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 💻 Operating System: 
-Mac                      12 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -93,7 +93,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2025 00:22:12 UTC
+ Last Updated on 11/04/2025 00:22:43 UTC
 <!--END_SECTION:waka-->
 
 
