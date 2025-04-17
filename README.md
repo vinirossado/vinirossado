@@ -27,7 +27,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C365%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -35,11 +35,11 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 545.3 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2025
+> 🏆 84 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -70,14 +70,14 @@ Sunday                   178 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       10 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   34.32 % 
-Go                       5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Other                    3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-HTTP Request             2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Swift                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+C#                       9 hrs               ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+Go                       5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Other                    5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+HTTP Request             2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Swift                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 💻 Operating System: 
-Mac                      30 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -93,7 +93,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 00:23:20 UTC
+ Last Updated on 17/04/2025 00:22:38 UTC
 <!--END_SECTION:waka-->
 
 
