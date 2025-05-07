@@ -9,7 +9,6 @@ Hi, I'm Vinícius and I'm living in Tallinn.
 Currently working with Stencil and .NET Core at a financial company. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Besides, one of my hobbies includes learning new stacks, for instance, right now I'm quite interested in Golang.
 
 For the past few years I've also been interested in learning new languages and cultures, specially the nordic ones.
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 #### Spoken languages
 - Portuguese (C2)
@@ -17,6 +16,8 @@ For the past few years I've also been interested in learning new languages and c
 - Italian (A2)
 - Estonian (A2) - Learning
 - Russian (A1) - Learning
+  
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
  <div>
   <a href="https://github.com/Vinirossado">
