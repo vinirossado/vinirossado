@@ -43,9 +43,6 @@ For the past few years I've also been interested in learning new languages and c
 
 ---
 
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
-
 ## ✩ Statistics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C469%20hrs%2039%20mins-blue)
@@ -117,6 +114,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
  Last Updated on 27/05/2025 00:23:24 UTC
 <!--END_SECTION:waka-->
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 
 
 
