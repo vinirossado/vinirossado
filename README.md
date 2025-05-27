@@ -25,6 +25,25 @@ For the past few years I've also been interested in learning new languages and c
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirossado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="1000"
+      src="https://github-profile-trophy.vercel.app/?username=vinirossado&column=7&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
 
 ## ✩ Statistics
