@@ -114,10 +114,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
  Last Updated on 27/05/2025 00:23:24 UTC
 <!--END_SECTION:waka-->
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vinirossado&repo=vinirossado&countColorcountColor)
-
-
-
 #### Technologies of Interest
 <div style="display: inline_block"><br>
 
