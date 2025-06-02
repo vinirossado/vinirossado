@@ -53,6 +53,8 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 545.7 kB Used in GitHub's Storage 
  > 
+> 🏆 112 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 53 Public Repositories 
@@ -109,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 00:29:34 UTC
+ Last Updated on 02/06/2025 00:25:37 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
