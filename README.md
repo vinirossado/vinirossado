@@ -45,15 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C603%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C608%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 546.4 kB Used in GitHub's Storage 
+> 📦 546.5 kB Used in GitHub's Storage 
  > 
-> 🏆 113 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +88,14 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.36 % 
-C#                       2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-HTTP Request             2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Other                    2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Swift                    9 hrs 13 mins       ████████████░░░░░░░░░░░░░   49.32 % 
+C#                       2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+HTTP Request             2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Other                    2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Mac                      14 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2025 00:26:53 UTC
+ Last Updated on 07/07/2025 00:26:37 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
