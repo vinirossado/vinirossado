@@ -115,17 +115,62 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
-<div style="display: inline_block"><br>
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />][csharp_link]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="35" alt="Csharp" />][csharp_link]
-[<img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" />][angular_link]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="35" alt="Typescript" />][angular_link]
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go" />][golang_link]
-[<img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />][nodejs_link]
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
+        </a>
+        <br>.NET Core
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        </a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=typescript">
+          <img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" width="48" height="48" alt="Angular" />
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=typescript">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" />
+        </a>
+        <br>TypeScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=go">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+        </a>
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=javascript">
+          <img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" width="48" height="48" alt="Node.js" />
+        </a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=swift">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
+        </a>
+        <br>Swift
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=swift">
+          <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" />
+        </a>
+        <br>SwiftUI
+      </td>
+    </tr>
+  </table>
 </div>
-
   
   ##
  
@@ -142,3 +187,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 [golang_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=go
 [nodejs_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=javascript
 [csharp_link]: https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23
+[swift_link]: https://github.com/yourusername?tab=repositories&q=swift
+[swiftui_link]: https://github.com/yourusername?tab=repositories&q=swiftui
+
