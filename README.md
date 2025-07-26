@@ -45,13 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C683%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C685%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 547.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 115 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,14 +88,14 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    11 hrs 31 mins      █████████████░░░░░░░░░░░░   53.90 % 
-C#                       3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-TypeScript               2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-HTTP Request             1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Swift                    7 hrs 12 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+C#                       2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+TypeScript               2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+HTTP Request             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -109,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 01:47:04 UTC
+ Last Updated on 26/07/2025 01:44:15 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
