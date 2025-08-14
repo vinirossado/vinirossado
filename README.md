@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C733%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C740%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -53,7 +53,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 547.9 kB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2025
+> 🏆 122 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +88,14 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    15 hrs 35 mins      ███████████████░░░░░░░░░░   59.65 % 
-TypeScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-C#                       1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-HTTP Request             1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Swift                    15 hrs 35 mins      ██████████████░░░░░░░░░░░   56.41 % 
+Other                    4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+TypeScript               2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+C#                       1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTTP Request             1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 💻 Operating System: 
-Mac                      26 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      27 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2025 00:24:53 UTC
+ Last Updated on 14/08/2025 00:25:14 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
