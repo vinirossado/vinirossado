@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C796%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C801%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -88,11 +88,14 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    8 hrs 17 mins       █████████████████████████   99.98 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Swift                    12 hrs 30 mins      ████████████████████████░   94.35 % 
+C#                       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      8 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 00:23:24 UTC
+ Last Updated on 10/09/2025 00:22:38 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
