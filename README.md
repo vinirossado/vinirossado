@@ -45,13 +45,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C821%20hrs%2050%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 548.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 126 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,17 +62,17 @@ For the past few years I've also been interested in learning new languages and c
 **I Mostly Code in C#** 
 
 ```text
-C#                       27 repos            █████████░░░░░░░░░░░░░░░░   35.06 % 
-Go                       17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C#                       27 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
+Go                       17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+TypeScript               15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
 
 
- Last Updated on 16/09/2025 00:22:12 UTC
+ Last Updated on 17/09/2025 00:23:34 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
