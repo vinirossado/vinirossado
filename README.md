@@ -45,6 +45,8 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2016%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -59,6 +61,43 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                312 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌆 Daytime                501 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                541 commits         █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌙 Night                  149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Tuesday                  181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Thursday                 337 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Friday                   237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Sunday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Tallinn
+
+💬 Programming Languages: 
+Swift                    22 hrs 43 mins      ███████████████░░░░░░░░░░   61.44 % 
+C#                       4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+HTTP Request             2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+
+💻 Operating System: 
+Mac                      36 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -72,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 00:23:34 UTC
+ Last Updated on 18/09/2025 00:22:34 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
