@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C840%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -53,13 +53,13 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 548.7 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2025
+> 🏆 127 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -88,14 +88,14 @@ Sunday                   183 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    22 hrs 43 mins      ███████████████░░░░░░░░░░   61.44 % 
-C#                       4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-HTTP Request             2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Other                    2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-TypeScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Swift                    17 hrs 36 mins      ███████████████░░░░░░░░░░   59.01 % 
+C#                       4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+HTTP Request             3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+TypeScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Mac                      36 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2025 00:22:34 UTC
+ Last Updated on 19/09/2025 00:23:19 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
