@@ -45,13 +45,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C949%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C954%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-706.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 548.3 kB Used in GitHub's Storage 
+> 📦 548.4 kB Used in GitHub's Storage 
  > 
 > 🏆 163 Contributions in the Year 2025
  > 
@@ -111,7 +111,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2025 00:25:13 UTC
+ Last Updated on 06/10/2025 00:23:28 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
