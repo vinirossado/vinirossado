@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C218%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-946.4%20thousand%20lines%20of%20code-blue)
 
@@ -53,7 +53,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 555.4 kB Used in GitHub's Storage 
  > 
-> 🏆 378 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +88,13 @@ Sunday                   215 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       2 hrs 53 mins       █████████████░░░░░░░░░░░░   52.06 % 
-Zig                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+C#                       3 hrs 55 mins       ███████████████████████░░   93.76 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +110,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:27:06 UTC
+ Last Updated on 01/01/2026 00:29:46 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
