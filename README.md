@@ -45,13 +45,11 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2035%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-947.25%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-947.48%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 555.9 kB Used in GitHub's Storage 
+> 📦 556.1 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -61,42 +59,6 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌆 Daytime                690 commits         █████████░░░░░░░░░░░░░░░░   36.20 % 
-🌃 Evening                643 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
-🌙 Night                  170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   282 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Tuesday                  239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Wednesday                318 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Thursday                 367 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Friday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Sunday                   215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Tallinn
-
-💬 Programming Languages: 
-C#                       4 hrs 13 mins       ███████████████████████░░   91.94 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-
-💻 Operating System: 
-Mac                      4 hrs 36 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -110,7 +72,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 00:26:39 UTC
+ Last Updated on 03/01/2026 00:24:52 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
