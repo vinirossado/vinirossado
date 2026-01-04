@@ -45,13 +45,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-947.48%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.12%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 556.1 kB Used in GitHub's Storage 
+> 📦 556.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 00:24:52 UTC
+ Last Updated on 04/01/2026 00:29:18 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
