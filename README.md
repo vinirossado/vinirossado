@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C235%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C236%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,14 +88,14 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       8 hrs 21 mins       ███████████████░░░░░░░░░░   58.11 % 
-Gherkin                  2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Swift                    1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+C#                       6 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.29 % 
+Swift                    2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Gherkin                  2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 
 💻 Operating System: 
-Mac                      14 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 00:25:56 UTC
+ Last Updated on 08/01/2026 00:26:46 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
