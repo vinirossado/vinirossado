@@ -51,7 +51,7 @@ For the past few years I've also been interested in learning new languages and c
 
 **🐱 My GitHub Data** 
 
-> 📦 564.0 kB Used in GitHub's Storage 
+> 📦 564.1 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2026
  > 
@@ -88,11 +88,10 @@ Sunday                   229 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-Swift                    1 hr 8 mins         █████████████████████████   99.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -108,7 +107,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2026 00:27:58 UTC
+ Last Updated on 16/01/2026 00:27:13 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
