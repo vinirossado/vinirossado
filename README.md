@@ -45,13 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C236%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 564.6 kB Used in GitHub's Storage 
+> 📦 564.8 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 18 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,6 +61,39 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                452 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+🌆 Daytime                805 commits         █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌃 Evening                696 commits         ████████░░░░░░░░░░░░░░░░░   32.58 % 
+🌙 Night                  183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Tuesday                  271 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                348 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 388 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Friday                   352 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Saturday                 220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Sunday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Tallinn
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -72,7 +107,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 00:32:17 UTC
+ Last Updated on 03/02/2026 00:32:53 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
