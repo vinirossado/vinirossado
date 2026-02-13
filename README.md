@@ -21,8 +21,8 @@ For the past few years I've also been interested in learning new languages and c
 
  <div>
   <a href="https://github.com/Vinirossado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinirossado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirossado&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-stats-one-iota.vercel.app/api?username=vinirossado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-one-iota.vercel.app/api/top-langs/?username=vinirossado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 --- 
@@ -36,7 +36,7 @@ For the past few years I've also been interested in learning new languages and c
   >
     <img
       width="1000"
-      src="https://github-profile-trophy.vercel.app/?username=vinirossado&column=7&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy-fork-two.vercel.app/?username=vinirossado&column=7&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
