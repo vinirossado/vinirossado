@@ -36,7 +36,7 @@ For the past few years I've also been interested in learning new languages and c
   >
     <img
       width="1000"
-      src="https://github-profile-trophy-fork-two.vercel.app/?username=vinirossado&column=7&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://gh-trophy.cdnsoft.net?username=vinirossado&column=7&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
