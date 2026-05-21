@@ -45,13 +45,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C379%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C380%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 594.7 kB Used in GitHub's Storage 
+> 📦 594.8 kB Used in GitHub's Storage 
  > 
 > 🏆 261 Contributions in the Year 2026
  > 
@@ -88,14 +88,14 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-SQL                      4 hrs 37 mins       ██████████████░░░░░░░░░░░   54.41 % 
-C#                       3 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+SQL                      3 hrs 15 mins       █████████████░░░░░░░░░░░░   51.46 % 
+C#                       3 hrs 1 min         ████████████░░░░░░░░░░░░░   47.69 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2026 00:54:02 UTC
+ Last Updated on 21/05/2026 00:55:23 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
