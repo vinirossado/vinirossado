@@ -45,13 +45,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C411%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C413%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 596.0 kB Used in GitHub's Storage 
+> 📦 596.1 kB Used in GitHub's Storage 
  > 
 > 🏆 351 Contributions in the Year 2026
  > 
@@ -88,14 +88,14 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       3 hrs 33 mins       ███████████████████░░░░░░   76.22 % 
-SQL                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+C#                       5 hrs 23 mins       ███████████████████░░░░░░   74.78 % 
+SQL                      52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Mac                      4 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 01:00:59 UTC
+ Last Updated on 14/06/2026 01:01:04 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
