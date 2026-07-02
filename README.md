@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C425%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C428%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,13 +88,14 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       1 hr 48 mins        █████████████░░░░░░░░░░░░   53.57 % 
-SQL                      1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.78 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+C#                       3 hrs 9 mins        ████████████░░░░░░░░░░░░░   48.22 % 
+SQL                      3 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.69 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -110,7 +111,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 00:58:17 UTC
+ Last Updated on 02/07/2026 00:54:54 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
