@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C448%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C450%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -61,6 +61,43 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                722 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                1152 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌙 Night                  274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Thursday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Saturday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Tallinn
+
+💬 Programming Languages: 
+C#                       5 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+SQL                      3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
+XML                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+
+💻 Operating System: 
+Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -74,7 +111,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 02:38:37 UTC
+ Last Updated on 23/07/2026 02:43:32 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
