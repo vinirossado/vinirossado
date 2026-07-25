@@ -59,43 +59,6 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                722 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌆 Daytime                1152 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌙 Night                  274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Wednesday                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Friday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Saturday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Tallinn
-
-💬 Programming Languages: 
-C#                       4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
-SQL                      3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.05 % 
-XML                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-
-💻 Operating System: 
-Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -109,7 +72,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:39:39 UTC
+ Last Updated on 25/07/2026 02:38:26 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
