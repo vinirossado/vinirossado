@@ -45,7 +45,9 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C311%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.32%20million%20lines%20of%20code-blue?style=flat)
 
@@ -98,6 +100,29 @@ JSON                     37 mins             ██░░░░░░░░░�
 Mac                      10 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 17 mins (71.56%)
+
+✍️ 1,521 lines written by AI, 3,960 lines written by hand (27.75% AI-written)
+
+🔤 41,798,341 Input Tokens, 358,587 Output Tokens
+
+💵 $132.69 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 114 AI Prompts
+
+Opus                     1,048 lines         █████████████████░░░░░░░░   67.83 % 
+Sonnet                   497 lines           ████████░░░░░░░░░░░░░░░░░   32.17 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 27.75% of written lines came from AI
+📄 Detailed Prompter — average 1,393 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 83.81% of changed lines were hand-edited
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -111,7 +136,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:54:22 UTC
+ Last Updated on 28/07/2026 02:32:51 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
