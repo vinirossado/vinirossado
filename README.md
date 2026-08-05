@@ -90,37 +90,36 @@ Sunday                   405 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Tallinn
 
 💬 Programming Languages: 
-C#                       3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
-SQL                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Markdown                 2 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+C#                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+SQL                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 💻 Operating System: 
-Mac                      10 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 49 mins (81.36%)
+⏱ AI Coding Time: 5 hrs 5 mins (83.17%)
 
-✍️ 3,137 lines written by AI, 278 lines written by hand (91.86% AI-written)
+✍️ 477 lines written by AI, 57 lines written by hand (89.33% AI-written)
 
-🔤 405,125,754 Input Tokens, 798,773 Output Tokens
+🔤 177,041,840 Input Tokens, 473,536 Output Tokens
 
-💵 $1227.72 Estimated AI Cost This Week
+💵 $538.56 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 113 AI Prompts
+🧠 2 AI Sessions, 66 AI Prompts
 
-Sonnet                   3,550 lines         ████████████████████████░   97.61 % 
-Opus                     87 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Sonnet                   516 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.86% of written lines came from AI
-📄 Detailed Prompter — average 1,097 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 8.51% of changed lines were hand-edited
+🤖 AI-Driven — 89.33% of written lines came from AI
+📄 Detailed Prompter — average 897 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
+🚀 High AI Trust — 13.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -136,7 +135,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 02:30:14 UTC
+ Last Updated on 05/08/2026 02:30:17 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
