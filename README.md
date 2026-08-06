@@ -63,65 +63,6 @@ For the past few years I've also been interested in learning new languages and c
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                722 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌆 Daytime                1152 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                1004 commits        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-🌙 Night                  274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Wednesday                457 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 475 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Friday                   520 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Saturday                 382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Sunday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Tallinn
-
-💬 Programming Languages: 
-Markdown                 1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-C#                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-SQL                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-
-💻 Operating System: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 5 mins (83.17%)
-
-✍️ 477 lines written by AI, 57 lines written by hand (89.33% AI-written)
-
-🔤 177,041,840 Input Tokens, 473,536 Output Tokens
-
-💵 $538.56 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 66 AI Prompts
-
-Sonnet                   516 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.33% of written lines came from AI
-📄 Detailed Prompter — average 897 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
-🚀 High AI Trust — 13.34% of changed lines were hand-edited
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -135,7 +76,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:30:17 UTC
+ Last Updated on 06/08/2026 02:33:07 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
