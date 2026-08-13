@@ -49,13 +49,13 @@ For the past few years I've also been interested in learning new languages and c
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2055%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 602.1 kB Used in GitHub's Storage 
+> 📦 602.5 kB Used in GitHub's Storage 
  > 
-> 🏆 523 Contributions in the Year 2026
+> 🏆 546 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,21 +66,21 @@ For the past few years I've also been interested in learning new languages and c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1130 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌆 Daytime                1392 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                1398 commits        ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌙 Night                  362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+🌞 Morning                1178 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+🌆 Daytime                1435 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌃 Evening                1449 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌙 Night                  373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   886 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-Tuesday                  587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Wednesday                492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Thursday                 539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Saturday                 411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   834 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Monday                   941 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Tuesday                  602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Wednesday                536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Thursday                 543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Friday                   534 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Saturday                 413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   866 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 ```
 
 
@@ -105,17 +105,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in C#** 
 
 ```text
-C#                       31 repos            ████████░░░░░░░░░░░░░░░░░   32.63 % 
-TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Bicep                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C#                       31 repos            ████████░░░░░░░░░░░░░░░░░   32.98 % 
+TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Bicep                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
 
 
- Last Updated on 12/08/2026 01:54:46 UTC
+ Last Updated on 13/08/2026 01:57:16 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
