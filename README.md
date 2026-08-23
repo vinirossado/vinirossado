@@ -45,10 +45,6 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C321%20hrs%2043%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2055%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -66,28 +62,28 @@ For the past few years I've also been interested in learning new languages and c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1576 commits        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Daytime                1870 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌃 Evening                1964 commits        ████████░░░░░░░░░░░░░░░░░   33.16 % 
-🌙 Night                  512 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+🌞 Morning                1918 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌆 Daytime                1759 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+🌃 Evening                2103 commits        █████████░░░░░░░░░░░░░░░░   35.51 % 
+🌙 Night                  142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1340 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Tuesday                  929 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Wednesday                779 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Thursday                 618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Friday                   591 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Saturday                 486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Sunday                   1179 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Monday                   1439 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Tuesday                  833 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                772 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 637 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Friday                   571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Saturday                 448 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Sunday                   1222 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Tallinn
+🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -115,7 +111,7 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 13:09:35 UTC
+ Last Updated on 23/08/2026 13:25:35 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
