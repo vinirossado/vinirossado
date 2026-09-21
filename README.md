@@ -134,6 +134,32 @@ Bicep                    1 repo              ░░░░░░░░░░░�
         </a>
         <br>C#
       </td>
+         <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=f%23">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="48" height="48" alt="FSharp" />
+        </a>
+        <br>F#
+      </td>
+       <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=go">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
+        </a>
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=swift">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
+        </a>
+        <br>Swift
+      </td>
+        <td align="center" width="96">
+        <a href="https://martendb.io">
+          <img src="https://raw.githubusercontent.com/JasperFx/marten/master/docs/public/logo.png" width="48" height="48" alt="Marten" />
+        </a>
+        <br>Marten
+        </td>   
+    </tr>
+    <tr>
       <td align="center" width="96">
         <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=typescript">
           <img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" width="48" height="48" alt="Angular" />
@@ -146,38 +172,36 @@ Bicep                    1 repo              ░░░░░░░░░░░�
         </a>
         <br>TypeScript
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=go">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-        </a>
-        <br>Go
-      </td>
-      <td align="center" width="96">
-        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=javascript">
-          <img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" width="48" height="48" alt="Node.js" />
-        </a>
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=swift">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" />
-        </a>
-        <br>Swift
-      </td>
       <td align="center" width="96">
         <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=swift">
           <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" />
         </a>
         <br>SwiftUI
       </td>
+       <td align="center" width="96">
+        <a href="https://jena.apache.org/documentation/fuseki2/">
+          <img src="https://raw.githubusercontent.com/apache/jena-site/main/static/images/jena-logo/jena-logo-notext-small.png" width="48" height="48" alt="Apache Jena Fuseki" />
+        </a>
+        <br>Fuseki
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=sparql">
+          <img src="https://cdn.simpleicons.org/semanticweb" width="48" height="48" alt="SPARQL" />
+        </a>
+        <br>SPARQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=turtle">
+          <img src="https://www.w3.org/RDF/icons/rdf_w3c_icon.128.gif" width="48" height="48" alt="Turtle" />
+        </a>
+        <br>TTL (Turtle)
+      </td>
     </tr>
   </table>
 </div>
-  
-  ##
  
+   ##
+   
 <div> 
   <a href="https://instagram.com/vinirossado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/vrossado2" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
