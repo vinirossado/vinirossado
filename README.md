@@ -55,28 +55,28 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 629.2 kB Used in GitHub's Storage 
  > 
-> 🏆 825 Contributions in the Year 2026
+> 🏆 827 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 60 Public Repositories 
  > 
-> 🔑 33 Private Repositories 
+> 🔑 34 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2530 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌞 Morning                2531 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
 🌆 Daytime                2329 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.37 % 
+🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
 🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Tuesday                  1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 Friday                   676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 Saturday                 497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
@@ -90,32 +90,53 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+F#                       1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Other                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+HTML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+C#                       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 6 hrs 2 mins (92.2%)
+
+✍️ 1,574 lines written by AI, 20 lines written by hand (98.75% AI-written)
+
+🔤 4,886,663 Input Tokens, 473,548 Output Tokens
+
+💵 $133.11 Estimated AI Cost This Week
+
+🧠 17 AI Sessions, 100 AI Prompts
+
+Opus                     1,779 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.75% of written lines came from AI
+📚 Verbose Prompter — average 3,105 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       31 repos            ████████░░░░░░░░░░░░░░░░░   32.63 % 
-TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C#                       31 repos            ████████░░░░░░░░░░░░░░░░░   32.29 % 
+TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Swift                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 
 
 
 
- Last Updated on 29/09/2026 04:32:15 UTC
+ Last Updated on 30/09/2026 04:16:04 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
