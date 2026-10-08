@@ -45,9 +45,9 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C324%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C326%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -90,38 +90,38 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JSON                     1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.60 % 
-F#                       39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+F#                       2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
+JSON                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
 
 💻 Operating System: 
-Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (89.11%)
+⏱ AI Coding Time: 4 hrs (66.21%)
 
-✍️ 1,639 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,726 lines written by AI, 3 lines written by hand (99.83% AI-written)
 
-🔤 4,495,534 Input Tokens, 288,067 Output Tokens
+🔤 4,215,870 Input Tokens, 248,515 Output Tokens
 
-💵 $97.27 Estimated AI Cost This Week
+💵 $90.14 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 61 AI Prompts
 
-Opus                     1,704 lines         █████████████████████████   100.00 % 
+Opus                     1,786 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.88% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -137,7 +137,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 04:36:31 UTC
+ Last Updated on 08/10/2026 04:46:32 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
