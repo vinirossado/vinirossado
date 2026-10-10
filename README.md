@@ -55,32 +55,32 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 629.3 kB Used in GitHub's Storage 
  > 
-> 🏆 827 Contributions in the Year 2026
+> 🏆 831 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 61 Public Repositories 
  > 
 > 🔑 34 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2531 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌆 Daytime                2329 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
+🌞 Morning                2534 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
+🌆 Daytime                2329 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
 🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Tuesday                  1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Tuesday                  1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Friday                   676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Friday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Saturday                 497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
 ```
 
 
@@ -90,54 +90,54 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       4 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+F#                       4 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.95 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JSON                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 💻 Operating System: 
-Mac                      11 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 30 mins (66.53%)
+⏱ AI Coding Time: 6 hrs 16 mins (62.4%)
 
-✍️ 6,457 lines written by AI, 82 lines written by hand (98.75% AI-written)
+✍️ 6,502 lines written by AI, 82 lines written by hand (98.75% AI-written)
 
-🔤 7,401,262 Input Tokens, 511,757 Output Tokens
+🔤 7,216,292 Input Tokens, 405,334 Output Tokens
 
-💵 $181.81 Estimated AI Cost This Week
+💵 $174.94 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 111 AI Prompts
+🧠 16 AI Sessions, 105 AI Prompts
 
-Opus                     6,548 lines         █████████████████████████   100.00 % 
+Opus                     6,543 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.75% of written lines came from AI
-📝 Concise Prompter — average 163 characters per prompt
+📝 Concise Prompter — average 162 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.17% of changed lines were hand-edited
+🚀 High AI Trust — 4.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       31 repos            ████████░░░░░░░░░░░░░░░░░   32.29 % 
-TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Swift                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Swift                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+F#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 
 
 
 
- Last Updated on 09/10/2026 04:49:35 UTC
+ Last Updated on 10/10/2026 04:34:59 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
