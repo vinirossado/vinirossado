@@ -55,7 +55,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 629.4 kB Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2026
+> 🏆 848 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,38 +90,38 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       4 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.95 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-JSON                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+F#                       5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+Turtle                   3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 Operating System: 
-Mac                      10 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 16 mins (62.4%)
+⏱ AI Coding Time: 9 hrs 4 mins (60.32%)
 
-✍️ 6,502 lines written by AI, 82 lines written by hand (98.75% AI-written)
+✍️ 7,131 lines written by AI, 203 lines written by hand (97.23% AI-written)
 
-🔤 7,216,292 Input Tokens, 405,334 Output Tokens
+🔤 9,933,804 Input Tokens, 563,717 Output Tokens
 
-💵 $174.94 Estimated AI Cost This Week
+💵 $226.08 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 105 AI Prompts
+🧠 19 AI Sessions, 131 AI Prompts
 
-Opus                     6,543 lines         █████████████████████████   100.00 % 
+Opus                     7,248 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
-📝 Concise Prompter — average 162 characters per prompt
+🤖 AI-Driven — 97.23% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 4.18% of changed lines were hand-edited
+🚀 High AI Trust — 8.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C#** 
@@ -137,7 +137,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 04:35:54 UTC
+ Last Updated on 13/10/2026 05:44:11 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
