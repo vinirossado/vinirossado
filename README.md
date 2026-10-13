@@ -1,12 +1,12 @@
 ### Hi 👋, you can call me Rossado
-I'm a Senior Software Engineer, currently working with .Net Core.
+I'm a Senior Software Engineer, currently working with <b>F# / .Net </b>.
 
 #### About me
 Hi, I'm Vinícius and I'm living in Aarhus.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinirossado&label=Profile%20views&color=0e75b6&style=flat" alt="vinirossado" /> </p>
 
-Currently working with .NET at a toy manufacturer. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Besides, one of my hobbies includes learning new stacks, for instance, right now I'm quite interested in Swift.
+Currently working with <b>F# / .Net </b> at <b>Lego</b>. One of my favorite things to do on my free time (besides playing the guitar) is to build new architectures in order to challenge myself with new development patterns. Besides, one of my hobbies includes learning new stacks, for instance, right now I'm quite interested in Swift.
 
 For the past few years I've also been interested in learning new languages and cultures.
 
@@ -14,7 +14,7 @@ For the past few years I've also been interested in learning new languages and c
 - Portuguese (C2)
 - English (C1)
 - Italian (A2)
-- Estonian (B1) - Learning
+- Estonian (A2)
 - Russian (A1) - Learning
   
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
