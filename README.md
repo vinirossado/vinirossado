@@ -148,7 +148,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
         <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
         </a>
-        <br>.NET Core
+        <br>.NET
       </td>
       <td align="center" width="96">
         <a href="https://github.com/vinirossado?tab=repositories&q=&type=&language=c%23">
