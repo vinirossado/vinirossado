@@ -19,3 +19,5 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
