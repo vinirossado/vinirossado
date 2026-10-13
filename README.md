@@ -45,17 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C333%20hrs%2045%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C338%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 629.4 kB Used in GitHub's Storage 
+> 📦 629.6 kB Used in GitHub's Storage 
  > 
-> 🏆 848 Contributions in the Year 2026
+> 🏆 851 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,21 +64,21 @@ For the past few years I've also been interested in learning new languages and c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2534 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌆 Daytime                2329 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌞 Morning                2536 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
+🌆 Daytime                2330 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
 🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-Tuesday                  1131 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Tuesday                  1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 Friday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Saturday                 497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 ```
 
 
@@ -100,30 +98,6 @@ JSON                     1 hr 8 mins         ██░░░░░░░░░�
 Mac                      15 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 4 mins (60.32%)
-
-✍️ 7,131 lines written by AI, 203 lines written by hand (97.23% AI-written)
-
-🔤 9,933,804 Input Tokens, 563,717 Output Tokens
-
-💵 $226.08 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 131 AI Prompts
-
-Opus                     7,248 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.23% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 8.12% of changed lines were hand-edited
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -137,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 05:44:11 UTC
+ Last Updated on 13/10/2026 10:48:25 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
