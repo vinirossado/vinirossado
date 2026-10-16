@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C339%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C340%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -88,14 +88,14 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-Turtle                   3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Turtle                   3 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.01 % 
+F#                       48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 03:28:02 UTC
+ Last Updated on 16/10/2026 03:22:46 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
