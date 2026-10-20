@@ -51,9 +51,9 @@ For the past few years I've also been interested in learning new languages and c
 
 **🐱 My GitHub Data** 
 
-> 📦 629.6 kB Used in GitHub's Storage 
+> 📦 629.7 kB Used in GitHub's Storage 
  > 
-> 🏆 855 Contributions in the Year 2026
+> 🏆 884 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +88,14 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Turtle                   3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-TypeScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-JSON                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-F#                       56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JSON                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+F#                       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 03:30:33 UTC
+ Last Updated on 20/10/2026 03:39:58 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
