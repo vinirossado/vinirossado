@@ -45,7 +45,7 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C342%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C343%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,7 +53,7 @@ For the past few years I've also been interested in learning new languages and c
 
 > 📦 629.7 kB Used in GitHub's Storage 
  > 
-> 🏆 884 Contributions in the Year 2026
+> 🏆 889 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,14 +88,14 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-JSON                     56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-F#                       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-YAML                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+JSON                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+YAML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+F#                       38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+TypeScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 💻 Operating System: 
-Mac                      3 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:39:58 UTC
+ Last Updated on 21/10/2026 03:33:25 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
