@@ -45,40 +45,40 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C350%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 629.7 kB Used in GitHub's Storage 
+> 📦 630.1 kB Used in GitHub's Storage 
  > 
-> 🏆 902 Contributions in the Year 2026
+> 🏆 906 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 61 Public Repositories 
  > 
-> 🔑 34 Private Repositories 
+> 🔑 35 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2536 commits        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌆 Daytime                2330 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌞 Morning                2538 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌆 Daytime                2330 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
 🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Tuesday                  1134 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+Tuesday                  1136 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Friday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Friday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 Saturday                 497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 ```
 
 
@@ -88,30 +88,30 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.99 % 
-Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Turtle                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+F#                       3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.53 % 
+Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Terraform                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 💻 Operating System: 
-Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
 
 ```text
-TypeScript               17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Swift                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-F#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Swift                    10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+F#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
 
 
- Last Updated on 27/10/2026 03:56:45 UTC
+ Last Updated on 28/10/2026 04:16:49 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
