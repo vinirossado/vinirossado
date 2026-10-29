@@ -88,14 +88,14 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.53 % 
-Markdown                 1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-JSON                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Terraform                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+F#                       2 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+Markdown                 1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+JSON                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Terraform                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Turtle                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:16:49 UTC
+ Last Updated on 29/10/2026 04:38:44 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
