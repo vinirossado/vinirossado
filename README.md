@@ -45,15 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C351%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.50%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 630.1 kB Used in GitHub's Storage 
+> 📦 630.9 kB Used in GitHub's Storage 
  > 
-> 🏆 914 Contributions in the Year 2026
+> 🏆 1,000 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +64,21 @@ For the past few years I've also been interested in learning new languages and c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2538 commits        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌆 Daytime                2330 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                2753 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
-🌙 Night                  172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+🌞 Morning                2610 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌆 Daytime                2396 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                2851 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2039 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Tuesday                  1136 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Wednesday                1070 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Thursday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Friday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Saturday                 497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Sunday                   1626 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Monday                   2115 commits        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Tuesday                  1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Thursday                 763 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Friday                   692 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Saturday                 505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Sunday                   1660 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 ```
 
 
@@ -88,14 +88,14 @@ Sunday                   1626 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.92 % 
-Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Terraform                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Turtle                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+F#                       5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
+XML                      3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Docker                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 04:40:55 UTC
+ Last Updated on 26/11/2026 21:02:31 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
