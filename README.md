@@ -45,15 +45,15 @@ For the past few years I've also been interested in learning new languages and c
 
 ## ✩ Statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C391%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 630.9 kB Used in GitHub's Storage 
+> 📦 631.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,000 Contributions in the Year 2026
+> 🏆 1,003 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +64,21 @@ For the past few years I've also been interested in learning new languages and c
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2610 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌆 Daytime                2396 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌃 Evening                2851 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌞 Morning                2612 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌆 Daytime                2396 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                2852 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
 🌙 Night                  175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2115 commits        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Tuesday                  1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   2115 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Tuesday                  1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Wednesday                1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 763 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Friday                   692 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Thursday                 764 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Friday                   694 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 Saturday                 505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Sunday                   1660 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+Sunday                   1660 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 
 
@@ -88,14 +88,14 @@ Sunday                   1660 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-F#                       5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
-XML                      3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Docker                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+F#                       7 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.14 % 
+XML                      3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Other                    2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 💻 Operating System: 
-Mac                      13 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -111,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 21:02:31 UTC
+ Last Updated on 27/11/2026 06:59:16 UTC
 <!--END_SECTION:waka-->
 
 #### Technologies of Interest
